@@ -34,7 +34,7 @@
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40" /></a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40" /></a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40" /></a>
-<a href="[https://prometheus.io/](https://grafana.com/)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40" /></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40" /></a>
 
 ## My Stats
 
