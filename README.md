@@ -1,5 +1,7 @@
 # About me
 
+Currently learning [Rust](https://www.rust-lang.org/)
+
 ## Languages & Frameworks
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
