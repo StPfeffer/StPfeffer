@@ -43,5 +43,3 @@
 ## My Stats
 
 ![StPfeffer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=StPfeffer&theme=dark&hide_border=true)
-
-![StPfeffer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StPfeffer&bg_color=0d1117&color=fefefe&line=fb8c00&point=fefefe&area=true&hide_border=true)
