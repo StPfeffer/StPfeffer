@@ -44,5 +44,3 @@ Currently learning [Rust](https://www.rust-lang.org/)
 ## My Stats
 
 ![StPfeffer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=StPfeffer&theme=dark&hide_border=true)
-
-![StPfeffer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StPfeffer&theme=dark&show_icons=true&hide_border=true&layout=compact)
