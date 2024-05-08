@@ -14,7 +14,6 @@ Currently learning [Rust](https://www.rust-lang.org/)
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
 <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40px" width="40px"/></a>
 
 ## Databases
 
@@ -44,10 +43,4 @@ Currently learning [Rust](https://www.rust-lang.org/)
 
 ## My Stats
 
-<div align="center">
-
-[![StPfeffer's Streak](https://streak-stats.demolab.com?user=StPfeffer&theme=calm-pink&hide_border=true&background=FFFFFF00)](https://git.io/streak-stats)
-
-![StPfeffer's Trophies](https://github-profile-trophy.vercel.app/?username=StPfeffer&row=2&column=3&no-bg=true&theme=onedark&no-frame=true)
-
-</div>
+[![StPfeffer's Streak](https://streak-stats.demolab.com?user=StPfeffer&theme=gotham&hide_border=true&border_radius=&background=FFFFFF00)](https://git.io/streak-stats)
