@@ -49,6 +49,7 @@ Currently learning [Rust](https://www.rust-lang.org/)
 <div align="center">
 
 [![StPfeffer's Streak](https://streak-stats.demolab.com?user=StPfeffer&theme=calm-pink&hide_border=true&background=FFFFFF00)](https://git.io/streak-stats)
+
 ![StPfeffer's Trophies](https://github-profile-trophy.vercel.app/?username=StPfeffer&row=2&column=3&no-bg=true&theme=onedark&no-frame=true)
 
 </div>
