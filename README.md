@@ -44,4 +44,6 @@ Currently learning [Rust](https://www.rust-lang.org/)
 
 ## My Stats
 
-[![StPfeffer's Streak](https://streak-stats.demolab.com?user=StPfeffer&theme=gotham&hide_border=true&border_radius=&background=FFFFFF00)](https://git.io/streak-stats)
+![StPfeffer's Streak](https://streak-stats.demolab.com?user=StPfeffer&theme=gotham&hide_border=true&border_radius=&background=FFFFFF00)
+
+![StPfeffer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StPfeffer&show_icons=true&hide_border=true&layout=compact&bg_color=FFFFFF00&theme=transparent)
