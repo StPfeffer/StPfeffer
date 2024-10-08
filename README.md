@@ -1,6 +1,8 @@
 # About me
 
-Currently learning [Rust](https://www.rust-lang.org/)
+Currently learning [Rust](https://www.rust-lang.org/).
+
+Writing bad code since 2017.
 
 ## Languages & Frameworks
 
